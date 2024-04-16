@@ -10,8 +10,12 @@ h2{
 body{
     margin-left: 100px;
     margin-right: 100px;
-
+    background-image: url("https://mindenamihallas.hu/cms_mindenamihallas/upload/blog/egeszseg/Etelek_a_hallas_egeszsegeert_a_vitaminok_ereje.jpg");
 }
 
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
 
 
